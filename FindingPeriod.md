@@ -1,7 +1,4 @@
 
-# Project Title
-
-
 # Museum  Visitor
 
 The algorithm find the window of time when the maximum people are in the museum. A list of time value pairs that indicate the arrival and leave timings of visitors.
